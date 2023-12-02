@@ -10,7 +10,7 @@ public class dag_2 {
 
     public static void main(String[] args) {
         String data = dag_2_input.input;
-        //countCubes_part1(data);
+        countCubes_part1(data);
         countCubes_part2(data);
     }
 
